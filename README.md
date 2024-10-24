@@ -21,8 +21,15 @@
 
 🚀 Let’s connect, collaborate, and create amazing things together!
 
+---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&cover_image=true&theme=compact&show_offline=false&background_color=d73353&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&redirect=true)  ![LeetCode Stats](https://leetcard.jacoblin.cool/Asifar?theme=radical&font=Stylish&ext=heatmap)
+&nbsp;<div align="center">
+![LeetCode Stats](https://leetcard.jacoblin.cool/Asifar?theme=dark&font=Stylish&ext=heatmap)
+</div>
+---
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&cover_image=true&theme=compact&show_offline=false&background_color=d73353&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&redirect=true) 
 
 
 
