@@ -22,15 +22,20 @@
 🚀 Let’s connect, collaborate, and create amazing things together!
 
 
-<div style="display: inline-block; margin-right: 10px;">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&cover_image=true&theme=default&show_offline=false&background_color=c3d733&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" />
-  </a>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="margin-right: 20px;">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&cover_image=true&theme=default&show_offline=false&background_color=c3d733&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" />
+    </a>
+  </div>
+  
+  <div>
+    <img src="https://leetcard.jacoblin.cool/Asifar?theme=radical&font=Stylish&ext=heatmap" alt="LeetCode Stats" />
+  </div>
 </div>
 
-<div style="display: inline-block;">
-  <img src="https://leetcard.jacoblin.cool/Asifar?theme=radical&font=Stylish&ext=heatmap" alt="LeetCode Stats" />
-</div>
+
+
 
 
 
