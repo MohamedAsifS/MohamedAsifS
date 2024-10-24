@@ -10,7 +10,8 @@
 
 
 ---
-- <img src="https://www.flaticon.com/free-icon/gamer_306772?term=retro+gaming&page=1&position=2&origin=search&related_id=306772" alt="Icon Description" width="24" height="24" /> I’m always expanding my knowledge and improving my skills in **web development**, **automation**,**Software Application**, and **data structures & algorithms**.
+- <img src=![image](https://github.com/user-attachments/assets/cd63689d-a46e-408a-8338-fdf5b9df0c72)
+ width="24" height="24" /> I’m always expanding my knowledge and improving my skills in **web development**, **automation**,**Software Application**, and **data structures & algorithms**.
   
 - 🏗️ I’m a founder of the **[Lock and Open](https://lockandopen.in)** community, where we focus on innovation and collaboration. Don't forget to check out our latest product **[PicStream](https://lockandopen.in)**!
   
