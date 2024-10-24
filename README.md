@@ -22,7 +22,7 @@
 🚀 Let’s connect, collaborate, and create amazing things together!
 
 
-<div style=" justify-content: center; align-items: center;">
+<div style=" height:300px; width:300px">
   <div style="margin-right: 5px; display:inline-block;">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&redirect=true">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&cover_image=true&theme=default&show_offline=false&background_color=c3d733&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" />
