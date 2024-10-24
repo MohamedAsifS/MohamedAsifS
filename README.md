@@ -10,8 +10,7 @@
 
 
 ---
-- <img src=![image](https://github.com/user-attachments/assets/cd63689d-a46e-408a-8338-fdf5b9df0c72)
- width="24" height="24" /> I’m always expanding my knowledge and improving my skills in **web development**, **automation**,**Software Application**, and **data structures & algorithms**.
+- 🕹️  I’m always expanding my knowledge and improving my skills in **web development**, **automation**,**Software Application**, and **data structures & algorithms**.
   
 - 🏗️ I’m a founder of the **[Lock and Open](https://lockandopen.in)** community, where we focus on innovation and collaboration. Don't forget to check out our latest product **[PicStream](https://lockandopen.in)**!
   
@@ -23,7 +22,16 @@
 🚀 Let’s connect, collaborate, and create amazing things together!
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Asifar?theme=radical&font=Stylish&ext=heatmap)
+<div style="display: inline-block; vertical-align: top;">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&cover_image=true&theme=default&show_offline=false&background_color=c3d733&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" />
+  </a>
+</div>
+
+<div style="display: inline-block; vertical-align: top;">
+  <img src="https://leetcard.jacoblin.cool/Asifar?theme=radical&font=Stylish&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
 <!--
 **MohamedAsifS/MohamedAsifS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
