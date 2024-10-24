@@ -24,7 +24,7 @@
 ---
 
 &nbsp;<div align="center">
-![LeetCode Stats](https://leetcard.jacoblin.cool/Asifar?theme=dark&font=Stylish&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Asifar?theme=wtf&font=Stylish&ext=heatmap)
 </div>
 ---
 
