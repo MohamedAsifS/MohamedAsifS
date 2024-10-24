@@ -10,7 +10,8 @@
 
 
 ---
-- 🌱 I’m always expanding my knowledge and improving my skills in **web development**, **automation**,**Software Application**, and **data structures & algorithms**.
+- <img src="https://example.com/your-icon.png" alt="Icon Description" width="24" height="24" />
+ I’m always expanding my knowledge and improving my skills in **web development**, **automation**,**Software Application**, and **data structures & algorithms**.
   
 - 🏗️ I’m a founder of the **[Lock and Open](https://lockandopen.in)** community, where we focus on innovation and collaboration. Don't forget to check out our latest product **[PicStream](https://lockandopen.in)**!
   
