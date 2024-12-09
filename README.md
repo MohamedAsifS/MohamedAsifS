@@ -31,7 +31,7 @@
 <hr> 
 
 &nbsp;<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&cover_image=true&theme=novatorem&show_offline=false&background_color=d73353&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c5edh5ngs7mwtm3iqdmett6xje&redirect=true)
 </div>
 
 
